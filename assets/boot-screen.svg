@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390" role="img" aria-label="WALTER OS futuristic terminal boot screen">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090e1d"/><stop offset="1" stop-color="#111a2d"/></linearGradient><linearGradient id="line"><stop stop-color="#27e9ff"/><stop offset="1" stop-color="#b16aff"/></linearGradient></defs>
+<rect width="1100" height="390" rx="20" fill="url(#bg)"/><rect x="1" y="1" width="1098" height="388" rx="19" fill="none" stroke="#32435d" stroke-width="2"/>
+<path d="M25 58H1075" stroke="#32435d"/><circle cx="35" cy="30" r="7" fill="#ff6685"/><circle cx="59" cy="30" r="7" fill="#ffd166"/><circle cx="83" cy="30" r="7" fill="#49e3a1"/>
+<g font-family="monospace" fill="#9baac2" font-size="15"><text x="120" y="35">WALTER_OS // terminal — session: root@curiosity</text><text x="48" y="101" fill="#49e3a1">[ OK ]</text><text x="132" y="101">Kernel: imagination.core loaded</text><text x="48" y="132" fill="#49e3a1">[ OK ]</text><text x="132" y="132">Infrastructure / Security / Automation</text><text x="48" y="163" fill="#49e3a1">[ OK ]</text><text x="132" y="163">Experimental interfaces initialized</text><text x="48" y="194" fill="#ffca69">[ RUN ]</text><text x="132" y="194">Questioning the default configuration of reality...</text></g>
+<text x="48" y="269" fill="url(#line)" font-family="monospace" font-weight="bold" font-size="52" letter-spacing="1">walterergo@localhost:~#</text>
+<text x="50" y="313" fill="#e5edff" font-family="monospace" font-size="20">ENGINEER SYSTEMS. REWIRE ASSUMPTIONS.</text>
+<rect x="49" y="337" width="1000" height="5" rx="2" fill="#26394c"/><rect x="49" y="337" width="805" height="5" rx="2" fill="url(#line)"/>
+<text x="1048" y="367" text-anchor="end" fill="#7f94ad" font-family="monospace" font-size="12">BOOT MODE: ALWAYS BUILDING</text>
+</svg>
